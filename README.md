@@ -6,11 +6,9 @@ Before running the web scraping script, make sure you have the following install
 
 Python
 
-requests
+selectolax
 
-beautifulsoup4
-
-pony
+httpx
 
 latest_user_agents
 
